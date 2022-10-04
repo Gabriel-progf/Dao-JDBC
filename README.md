@@ -1,8 +1,4 @@
-# Count for votes Candidates
+# Dao JDBC - Seller and Department
 
-O programa realiza uma contagem de votos de uma eleição, são gerados vários registros
-de votação contendo o nome do candidato e a quantidade de votos
-(formato .csv) que ele obteve em uma urna de votação. O programa lê os registros de votação a partir de um
-arquivo, e daí gera um relatório consolidado com os totais de cada
-candidato.
-# CountForVotesCandidates
+O Programa consiste em um modelo DAO (Data Access Object) em JDBC, com implementações CRUD em um banco de dados que possui as Tables Seller (Vendedores) e Department (Departamento). As alterações realizadas pelo CRUD é mostrado no console conforme programado na class Program.
+
