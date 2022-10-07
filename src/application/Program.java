@@ -56,6 +56,9 @@ public class Program {
  		sellerDao.deletebyId(id);
  		System.out.println("Delete completed");
  		
+ 		
+ 		
+ 		 
  		sc.close();
  		
 	}
